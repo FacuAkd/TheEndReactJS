@@ -1,0 +1,20 @@
+div.superposicion {
+    z-index: 0;
+  }
+  
+  div nav.menu {
+    background-image: url(../imagen/fondoPatron.png);
+  }
+  
+  div .navbar-nav .menuColor {
+    color: #FFD817;
+    font-family: "Roboto Medium 500", cursive;
+    font-size: 22px;
+  }
+  
+  div .navbar-nav .menuColor:hover {
+    background-color: #038C8C;
+    -webkit-animation: pulse 2s ease-in .2ms;
+            animation: pulse 2s ease-in .2ms;
+  }
+  
